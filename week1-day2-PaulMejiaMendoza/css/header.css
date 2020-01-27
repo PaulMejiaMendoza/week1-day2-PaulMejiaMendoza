@@ -1,0 +1,10 @@
+.site-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #4a4a4a;
+    color: #ccc;
+}
+.searh{
+    margin-left: auto;
+}

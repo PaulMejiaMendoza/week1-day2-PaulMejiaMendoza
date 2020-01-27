@@ -1,0 +1,22 @@
+body{
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+}
+.courses{
+    display: flex;
+    margin-left: 10px;
+}
+.hola{
+    width: 1440px;
+    height: 382px;
+}
+div img{
+    float: left;
+    padding: 13px;
+}
+.courses__list{
+    clear: both;
+}
+.courses__list--paragraph{
+    line-height: 1.5 ;
+}

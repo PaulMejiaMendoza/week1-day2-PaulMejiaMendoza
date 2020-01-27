@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+}
+.navbar__link{
+    display: flex;
+    align-items: center;
+    height: 3.5 rem; /*porque en el template el alto es de 56px*/
+    padding: 0 19px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.navbar__link:hover{
+    background-color: rgba(255, 255, 255, .15);
+}
